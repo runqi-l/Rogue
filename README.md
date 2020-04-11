@@ -8,9 +8,9 @@ Useing ncurse and X11 library.
 use the command line option DLC to open a graphics display(make sure you have an X server):
 
 ```
-$ cd dc3k
+$ cd rogue/
 $ make
-$ ./dc3k DLC
+$ ./rogue DLC
 ```
 
 press H to start; use WASD to move in 8 directions; press Q to quit; press R to restart
